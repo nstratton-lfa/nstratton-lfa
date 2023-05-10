@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nstratton-lfa
-- 👀 I’m interested in Node, Javascript, TypeScript, VueJs
+- 👀 I’m interested in C#, Node, Javascript, TypeScript, VueJs
 - 🌱 I’m currently learning VueJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
